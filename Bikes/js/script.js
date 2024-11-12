@@ -14,4 +14,4 @@ for (let i = 0; i < myBikes.length; i++) {
     }
 }
 
-console.log("La bici più leggera è:", lighterBike)
+console.log("La bici più leggera è:", lighterBike);
